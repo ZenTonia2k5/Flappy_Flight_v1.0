@@ -1,3 +1,3 @@
 # Game
-Our first game?
+Our first game??
 _Shikanoko Nokonoko Koshitantan_
